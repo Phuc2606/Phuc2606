@@ -1,4 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Minh Phúc!  
+
+## 📚 Studying **Computer Science** at Ho Chi Minh City University of Technology (HCMUT)  
+---
+## 🎯 Goals
+- 💻 Improve my skills in **Web Development & Software Engineering**  
+- 🚀 Become a **Fullstack Developer**
+---
+## 📫 Contact
+### 📧 Email: phuc26062005@gmail.com  
+### 💬 Facebook: facebook.com/phuclinhutrau
+### 🔗 LinkedIn:
+
+
 
 <!--
 **Phuc2606/Phuc2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
