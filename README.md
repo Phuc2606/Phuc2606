@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Minh Phúc!  
 
-## 📚 Studying **Computer Science** at Ho Chi Minh City University of Technology (HCMUT)  
+## 📚 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 ---
 ## 🎯 Goals
 - 💻 Improve my skills in **Web Development & Software Engineering**  
