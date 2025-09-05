@@ -9,7 +9,7 @@
 ## 📫 Contact
 ### 📧 Email: phuc26062005@gmail.com  
 ### 💬 Facebook: facebook.com/phuclinhutrau
-### 🔗 LinkedIn:
+### 🔗 LinkedIn: www.linkedin.com/in/phúc-nguyễn-18aa5434b
 
 
 
