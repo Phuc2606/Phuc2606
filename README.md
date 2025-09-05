@@ -1,29 +1,81 @@
-# 👋 Hello, I'm Minh Phúc!  
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Minh+Phúc!;💻+Computer+Science+Student;🚀+Aspiring+Fullstack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-## 📚 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 ---
-## 🎯 Goals
-- 💻 Improve my skills in **Web Development & Software Engineering**  
-- 🚀 Become a **Fullstack Developer**
+
+## 📚 About Me  
+
+I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)** with a strong passion for technology and problem-solving. I enjoy learning how things work under the hood and turning ideas into practical applications that can bring value to people.  
+
+My main focus is on **Web Development** and **Software Engineering**, and I’m constantly improving my skills to one day become a well-rounded **Fullstack Developer**. Along the way, I explore new tools, frameworks, and best practices to stay adaptive in a fast-changing tech world.  
+
+Besides technical skills, I also value **soft skills** such as analytical thinking, communication, and teamwork. I believe these qualities, combined with my English proficiency, help me connect with others, work effectively in groups, and contribute to global projects with confidence.  
+
 ---
+
+## 🛠️ Tech Stack
+### Languages:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
+
+### Libraries & Frameworks:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+</p>
+
+### Tools & Platforms:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
+
+### Databases:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phuc2606&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phuc2606&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc2606&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 📊 GitHub Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phuc2606&theme=radical" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phuc2606&theme=radical" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phuc2606&theme=radical&utcOffset=7" alt="Commits"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phuc2606&theme=radical" alt="Profile Details"/>
+</p>
+
+---
+
 ## 📫 Contact
-### 📧 Email: phuc26062005@gmail.com  
-### 💬 Facebook: facebook.com/phuclinhutrau
-### 🔗 LinkedIn: www.linkedin.com/in/phúc-nguyễn-18aa5434b
-
-
-
-<!--
-**Phuc2606/Phuc2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Email:** [phuc26062005@gmail.com](mailto:phuc26062005@gmail.com)  
+- 💬 **Facebook:** [facebook.com/phuclinhutrau](https://facebook.com/phuclinhutrau)  
+- 🔗 **LinkedIn:** [Phúc Nguyễn](https://www.linkedin.com/in/phúc-nguyễn-18aa5434b)  
