@@ -74,6 +74,12 @@ Besides technical skills, I also value **soft skills** such as analytical thinki
 </p>
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="25" style="vertical-align: middle;" /> LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/phucnguyen?theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
 
 ## 📫 Contact
 <p align="center">
