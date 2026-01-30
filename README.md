@@ -50,37 +50,6 @@ Besides technical skills, I also value **soft skills** such as analytical thinki
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phuc2606&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phuc2606&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc2606&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 📊 GitHub Profile Summary Cards
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phuc2606&theme=radical" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phuc2606&theme=radical" alt="Top Languages by Commit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phuc2606&theme=radical&utcOffset=7" alt="Commits"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phuc2606&theme=radical" alt="Profile Details"/>
-</p>
-
----
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="25" style="vertical-align: middle;" /> LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/phucnguyen?theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 📫 Contact
 <p align="center">
   <a href="mailto:phuc26062005@gmail.com">
